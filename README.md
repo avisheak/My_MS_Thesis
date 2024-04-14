@@ -1,2 +1,2 @@
 # My_MS_Thesis
-Enabling Exploratory Analytics over Knowledge Graph of Cross Domains
+Unveiling Insights: Enabling Inter-cube Descriptive Analytics over Knowledge Graphs
